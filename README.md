@@ -1,2 +1,2 @@
 # open.schema
-Design for unknowns.
+## Design for unknowns.
