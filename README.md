@@ -10,5 +10,5 @@ It's true that there are all types of standards, protocols and programming langu
 ## An analogy.
 It used to be that mobile phone companies manufactured unique chargers for their products. In some cases they were able to charge more than $40 for a charger which seemed rediculous. The European Union now requires usb-c chargers for all mobile devices. (As a side note: we aren't advocating for government regulation it's just simply an analogy of a ubiquitous interface.) The EU's regulations was, "...also intended to eliminate technological "lock-in" that keeps users tied to one manufacturer's proprietary formats." per Engadget's article: https://www.engadget.com/eu-usb-c-port-charging-requirement-approved-141546579.html?guccounter=1
 
-## Elimate technological "lock-in"
+## Elimate technological "lock-in".
 It is our goal to provide an open standard that describes a common schema for programs. It is our abition to describe both nouns (objects) and verbs (actions). We are beginning with what is closest to our heart, content for news sites, ecommerce and advertising. We are open to the development of all subjects from the wider commuunity.
